@@ -35,8 +35,8 @@ This repository is a hub for exploring datasets, uncovering insights, and tellin
 ![Seaborn](https://img.shields.io/badge/Seaborn-4c8cbf?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 
-* **Languages**: Python 🐍, SQL
-* **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+* **Languages**: Python 
+* **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 * **Jupyter Notebooks** for interactive exploration
 
 ---
